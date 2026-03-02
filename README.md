@@ -1,4 +1,4 @@
-# IT3210 – Assignment 6  
+Assignment 6  
 **Structured Scripts Using Functions**  
 Khaled Masadeh  
 
